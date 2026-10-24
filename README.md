@@ -59,9 +59,21 @@ macOS tells you that "System Data" takes 80 GB — and then leaves you alone wit
 
 Atility is not notarized by Apple yet, which is why macOS asks once.
 
+## Assistant
+
+Ask Atility in plain language — *"Help me clean up"*, *"Check my Trash"*, *"I'm afraid to delete this, is it okay?"*. The assistant reads your scan, asks before anything sensitive, shows you the files right in the app and prepares the confirmation. The last click is always yours.
+
+<p align="center">
+  <img src="screenshots/assistant.png" width="860" alt="Atility assistant helping to clean up">
+</p>
+
 ## Use it from Claude
 
 Atility is also an MCP server. Register it in **Settings › Assistant** with one click, then ask Claude Code or the Claude app about your Mac's storage. Suggestions still land in Atility for you to confirm.
+
+<p align="center">
+  <img src="screenshots/settings-assistant.png" width="540" alt="Settings › Assistant with status, start, repair and register">
+</p>
 
 ## Privacy
 
