@@ -79,6 +79,26 @@ Atility is also an MCP server. Register it in **Settings › Assistant** with on
 
 Atility runs entirely on your Mac. It sends nothing anywhere — unless you use the assistant, which shares only file names, paths, sizes and dates with Claude, and file contents only after you allow it for specific files.
 
+## License and EULA
+
+Atility is proprietary software. See the [license notice](LICENSE) and the
+[Atility EULA](EULA.md). **The EULA is a draft for legal review, not approved for
+distribution.** It prepares terms for future releases, subject to legal review
+and valid agreement. Publishing these documents does not establish acceptance
+or change rights in earlier copies.
+
+The intended model allows Atility Free without payment, including for commercial
+work. Pro is intended to require a paid license once sales begin; no Free/Pro
+feature split, purchase, activation, or paid license verification is implemented
+by these documents. Earlier valid license grants, contractual and statutory
+entitlements, and third-party notices remain unaffected, including rights in
+reused material.
+
+Future app builds include these documents for offline reading in **Atility ›
+License & EULA…** and **Settings › General**. Existing release downloads remain
+unchanged; this documentation update publishes no new app version. The reader
+provides access to the texts and does not record agreement.
+
 ## Language
 
 The app is currently in German. English is coming in version 1.2.
